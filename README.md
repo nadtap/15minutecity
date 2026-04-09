@@ -27,15 +27,6 @@ Do people really live locally — or just theoretically could?
 
 ---
 
-## 📊 Main Findings
-
-* ❌ Most people **do not follow** the 15-minute model
-* 🏢 Work location is the **main constraint**
-* 🛍️ People often **ignore nearby options** (“amenity bypass”)
-* 📍 Local availability ≠ local behavior
-
----
-
 ## ⚙️ Tech Stack
 
 * Python (pandas, geopandas, sklearn)
@@ -43,11 +34,3 @@ Do people really live locally — or just theoretically could?
 * GPS data processing
 
 ---
-
-## 🚀 Takeaway
-
-> The 15-minute city is not just an urban design problem —
-> it’s a **behavioral one**.
-
----
-
