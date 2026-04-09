@@ -2,14 +2,14 @@
 
 ## 📌 Overview
 
-This project tests the *15-minute city* concept using **real mobility data** from Google Maps Timeline.
+This project tests the *15-minute city* concept using **real mobility data** from Google Location History.
 
 Instead of measuring *what is accessible*, it focuses on
 👉 **what people actually do**.
 
 ---
 
-## 🎯 Key Question
+## Key Question
 
 Do people really live locally — or just theoretically could?
 
